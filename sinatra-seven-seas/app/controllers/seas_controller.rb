@@ -1,7 +1,6 @@
 class SeasController < ApplicationController
 
   get "/" do
-
     erb :welcome
   end
 
